@@ -1,0 +1,53 @@
+.page-has-bottom-nav {
+    padding-bottom: 60px;
+}
+
+.general-info {
+    /*border: 1px solid #f00;*/
+}
+
+.general-info ul {
+    /*border: 1px solid #0f0;*/
+}
+
+.general-info ul > li {
+    /*border: 1px solid #ccc;*/
+    padding: 10px 8px;
+    font-size: 16px;
+}
+
+.positive-text {
+    color: #0c60ee;
+}
+
+.calm-text {
+    color: #11c1f3;
+}
+
+.balanced-text {
+    color: #33cd5f;
+}
+
+.energized-text {
+    color: #ffc900;
+}
+
+.assertive-text {
+    color: #ef473a;
+}
+
+.royal-text {
+    color: #886aea;
+}
+
+.dark-text {
+    color: #444;
+}
+
+li .icon-box {
+    /*border: 1px solid #f00;*/
+    display: inline-block;
+    width: 30px;
+    text-align: center;
+    font-size: 18px;
+}
